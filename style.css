@@ -1,0 +1,43 @@
+.custom-container{
+    background: green;
+    height: 100%;
+    width: 100%;
+}
+.header{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    
+}
+.form{
+    border: 2px solid black;
+    background: linear-gradient(45deg,hsl(260, 37%, 40%),rgba(198, 106, 129, 0.4));
+    margin-top:1%;
+    margin-left: 32%;
+    margin-right: 32%;
+    padding: 20px;
+    font-weight: bolder;
+    
+}
+#name,#email,#age,#opt{
+    width: 95%;
+    border-style: groove;
+    height: 40px;
+    margin-top: 10px;
+}
+#Yes,#No,#Maybe{
+    margin-top: 15x;
+}
+.submit{
+    text-align: center;
+    width: 95%;
+    margin-top: 20px;
+}
+.nam{
+    margin-top:10px
+}
+#p{
+    margin-top: 10px;
+}
